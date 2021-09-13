@@ -1,4 +1,5 @@
 
+
 h5ai-nginx 
 -------------
 
@@ -12,8 +13,8 @@ Segue abaixo alguns pontos importantes:
 
 Softwares necessários:
 -------------
-*	Distribuição Linux - Debian, Ubuntu, Raspibian e outras.
-*	h5ai - https://larsjung.de/h5ai/
+*	Distribuição Linux - Debian, Ubuntu, Raspbian e outras.
+*	h5ai - [Oficial](https://release.larsjung.de/h5ai/h5ai-0.30.0.zip) ou [h5ai-nginx](https://github.com/xxxBurNxxx/h5ai-nginx/raw/main/h5ai-0.30.0.zip)
 *	nginx
 *	PHP
 
@@ -85,9 +86,9 @@ E depois executar para verificar a versão, conforme mencionei anterior mente.
 
 ## 3. Baixando o  h5ai <a name="3"></a>
 
-Para configurar o h5ai, você pode baixar os arquivos oficiais ou baixar os que eu deixei no diretório desse artigo [Clicando aqui](https://github.com/xxxBurNxxx/h5ai-nginx/blob/main/h5ai-0.30.0.zip), extrair os arquivos e deixar a pasta **_h5ai** na raiz da pasta do seu site.
+Para configurar o h5ai, você pode baixar os arquivos oficiais ou baixar os que eu deixei no diretório desse artigo [Clicando aqui](https://github.com/xxxBurNxxx/h5ai-nginx/raw/main/h5ai-0.30.0.zip), extrair os arquivos e deixar a pasta **_h5ai** na raiz da pasta do seu site.
 
-Basicamente deve ficar com uma estrutura de pasta conforme abaixo:
+Basicamente a estrutura de pastas deve ficar conforme abaixo:
 
 	site-exemplo
 		     ┖-- _h5ai
@@ -104,7 +105,7 @@ Para descobrir o ip do computador digite:
 	      ou
 	ifconfig
 
-Depois digite os comandos abaixo para verificar o status no nginx, caso não retorne nenhum possivelmente esta tudo certo com as confiurações.
+Depois digite os comandos abaixo para verificar o status no nginx, caso não retorne nenhum possivelmente esta tudo certo com as configurações.
 
 	sudo nginx -t
 
