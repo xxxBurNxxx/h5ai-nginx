@@ -70,6 +70,7 @@ Atenção a configuração deve ficar igual abaixo, caso tenha algum problema na
 Feito todas as alterações no arquivo, você estiver usando o Nano pode pressionar **CTRL + o** para salvar, **Enter** para gravar no mesmo arquivo e **CTRL + x** para sair. Caso queira abra novamente este arquivo e verifique se salvou corretamente.
 
 ***Irei deixar no diretório desse arquivo um arquivo completo de exemplo.
+[arquivo de exemplo](https://github.com/xxxBurNxxx/h5ai-nginx/blob/main/arquivo-default)
 
 ## 2. Instalando PHP <a name="2"></a>
 
@@ -83,7 +84,7 @@ E depois executar para verificar a versão, conforme mencionei anterior mente.
 
 ## 3. Baixando o  h5ai <a name="3"></a>
 
-Para configurar o h5ai, você pode baixar os arquivos oficiais ou baixar os que eu deixei no diretório desse artigo, extrair os arquivos e deixar a pasta **_h5ai** na raiz da pasta do seu site.
+Para configurar o h5ai, você pode baixar os arquivos oficiais ou baixar os que eu deixei no diretório desse artigo [Clicando aqui](https://github.com/xxxBurNxxx/h5ai-nginx/blob/main/h5ai-0.30.0.zip), extrair os arquivos e deixar a pasta **_h5ai** na raiz da pasta do seu site.
 
 Basicamente deve ficar com uma estrutura de pasta conforme abaixo:
 
