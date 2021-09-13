@@ -70,6 +70,7 @@ Atenção a configuração deve ficar igual abaixo, caso tenha algum problema na
 Feito todas as alterações no arquivo, você estiver usando o Nano pode pressionar **CTRL + o** para salvar, **Enter** para gravar no mesmo arquivo e **CTRL + x** para sair. Caso queira abra novamente este arquivo e verifique se salvou corretamente.
 
 ***Irei deixar no diretório desse arquivo um arquivo completo de exemplo.
+
 [arquivo de exemplo](https://github.com/xxxBurNxxx/h5ai-nginx/blob/main/arquivo-default)
 
 ## 2. Instalando PHP <a name="2"></a>
